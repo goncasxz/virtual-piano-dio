@@ -36,6 +36,7 @@ start index.html # Para Windows
 ## 🎮 Controles
 Teclado do Computador:
 - Utilize as teclas A, S, D, etc., para tocar as notas correspondentes.
+
 Cliques no Mouse:
 - Clique nas teclas virtuais para emitir sons.
 
