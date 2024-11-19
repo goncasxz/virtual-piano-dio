@@ -21,7 +21,7 @@ Antes de começar, você precisará do seguinte instalado em sua máquina:
 1. Clone o repositório:
 ```bash
 git clone https://github.com/goncasxz/virtual-piano-dio.git
-
+```
 2. Navegue até o diretório do projeto:
 ```bash
 cd virtual-piano-dio
