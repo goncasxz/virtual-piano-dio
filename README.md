@@ -19,12 +19,12 @@ Antes de começar, você precisará do seguinte instalado em sua máquina:
 ## 🛠️ Como usar
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/goncasxz/virtual-piano-dio.git
+```bash
+git clone https://github.com/goncasxz/virtual-piano-dio.git
 
 2. Navegue até o diretório do projeto:
-  ```bash
-   cd virtual-piano-dio
+```bash
+cd virtual-piano-dio
 
 ```
 3. Abra o arquivo index.html em um navegador:
@@ -41,7 +41,6 @@ Cliques no Mouse:
 
 ## 📁 Estrutura do Projeto
 ```
-Copiar código
 virtual-piano-dio/
 │
 ├── index.html       # Página principal do piano
